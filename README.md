@@ -6,9 +6,12 @@ iKuuu机场官网地址</br>
 find@ikuuu.pro 发送任意邮件到此邮箱，将会收到最新官网地址（自动回复）
 ### 简介
 iKuuu（通常被称为“iKuuu 机场”或“iKuuu VPN”）是一家在圈内知名度极高、运营时间较长的老牌网络加速服务商。它以提供大额免费流量和高性价比的付费套餐而闻名，是很多刚接触“机场”用户的首选入口之一。
-### 邀请注册得50G
-![image.png](https://pic.us.kg/file/1778552361320_image.png?raw=ture)
-### 优势
+### 邀请码
+`此邀请码注册得50G`
+```bash
+HTre
+```
+## 优势
 iKuuu 属于典型的“大众化”机场，走的是量大、低价路线。它不仅提供稳定的付费服务，还长期保留着一个门槛极低的免费层级，因此积累了大量的用户基础。
 ## 套餐
 ![image.png](https://github.com/jdnei/iKuuu/blob/main/ikuuu/20260710094507010.jpg?raw=ture)
