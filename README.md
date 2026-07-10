@@ -11,7 +11,7 @@ iKuuu（通常被称为“iKuuu 机场”或“iKuuu VPN”）是一家在圈内
 ### 优势
 iKuuu 属于典型的“大众化”机场，走的是量大、低价路线。它不仅提供稳定的付费服务，还长期保留着一个门槛极低的免费层级，因此积累了大量的用户基础。
 ## 套餐
-![image.png](https://pic.us.kg/file/1778552550421_image.png?raw=ture)
+![image.png](https://github.com/jdnei/iKuuu/blob/main/ikuuu/20260710094507010.jpg?raw=ture)
 
 ### 节点信息
 
@@ -71,6 +71,11 @@ iKuuu 属于典型的“大众化”机场，走的是量大、低价路线。�
 * 🇦🇺 澳大利亚 W01
 * 🇫🇷 法国 W01
 * 🇺🇦 乌克兰 W01
-### 性能实测与分析
-#### 1.晚高峰测速表现
-![image.png](https://pic.us.kg/file/1778552839774_image.png?raw=ture)
+## 📊 性能实测与分析  
+#### 1.晚高峰测速表现  
+![image](https://github.com/jdnei/iKuuu/blob/main/ikuuu/photo_2026-07-10_09-41-29.jpg?raw=ture)  
+#### 2.流媒体解锁报告  
+![image](https://github.com/jdnei/iKuuu/blob/main/ikuuu/MiaoKo-%20.%20.one-5240-test.png?raw=ture)    
+#### 3.落地入口分析  
+![image](https://github.com/jdnei/iKuuu/blob/main/ikuuu/photo_2026-07-10_09-36-02.jpg?raw=ture)
+
