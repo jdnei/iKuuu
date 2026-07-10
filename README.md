@@ -1,4 +1,4 @@
-# iKuuu iKuuu机场官方地址(2026年7月9日更新)
+# iKuuu iKuuu机场官方地址(2026年7月10日更新)
 iKuuu机场官网地址</br>
 最新地址：[ikuuu.win](https://ikuuu.win/auth/register?code=HTre)</br>
 官方地址：[ikuuu.fyi](https://ikuuu.fyi/auth/register?code=HTre)</br>
