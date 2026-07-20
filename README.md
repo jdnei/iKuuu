@@ -3,7 +3,13 @@ iKuuu机场官网地址</br>
 最新地址：[ikuuu.win](https://ikuuu.win/auth/register?code=HTre)</br>
 官方地址：[ikuuu.fyi](https://ikuuu.fyi/auth/register?code=HTre)</br>
 
-find@ikuuu.pro 发送任意邮件到此邮箱，将会收到最新官网地址（自动回复）
+find@ikuuu.pro 发送任意邮件到此邮箱，将会收到最新官网地址（自动回复）</br>
+
+2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
+## Telegram VPN 机场福利社 #AD
+[机场抽奖群](https://331024.de/archives/choujiang)｜[机场聊天群](https://331024.de/archives/choujiang)｜[机场体验群](https://331024.de/archives/choujiang)</br>
+
+[https://331024.de/archives/choujiang](https://331024.de/archives/choujiang)
 ### 简介
 iKuuu（通常被称为“iKuuu 机场”或“iKuuu VPN”）是一家在圈内知名度极高、运营时间较长的老牌网络加速服务商。它以提供大额免费流量和高性价比的付费套餐而闻名，是很多刚接触“机场”用户的首选入口之一。
 ### 邀请码
