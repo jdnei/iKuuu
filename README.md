@@ -1,4 +1,4 @@
-# iKuuu iKuuu机场官方地址(2026年7月27日更新)
+# iKuuu iKuuu机场官方地址(2026年7月28日更新)
 iKuuu机场官网地址</br>
 
 #### iKuuu 最近表现一般，推荐去：[吹雪云](https://github.com/jdnei/chuixuecloud)</br>
