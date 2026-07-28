@@ -1,7 +1,7 @@
 # iKuuu iKuuu机场官方地址(2026年7月28日更新)
 iKuuu机场官网地址</br>
 
-#### iKuuu 最近表现一般，推荐去：[吹雪云](https://github.com/jdnei/chuixuecloud)</br>
+#### 最近机场不稳定，推荐去：[吹雪云](https://github.com/jdnei/chuixuecloud)</br>
 
 最新地址：[ikuuu.win](https://ikuuu.win/auth/register?code=HTre)</br>
 官方地址：[ikuuu.fyi](https://ikuuu.fyi/auth/register?code=HTre)</br>
