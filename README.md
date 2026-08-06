@@ -1,3 +1,7 @@
+🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
+[Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
+
+
 # iKuuu iKuuu机场官方地址(2026年8月5日更新)
 iKuuu机场官网地址</br>
 
