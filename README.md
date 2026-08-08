@@ -2,7 +2,7 @@
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
 
-# iKuuu iKuuu机场官方地址(2026年8月7日更新)
+# iKuuu iKuuu机场官方地址(2026年8月8日更新)
 iKuuu机场官网地址</br>
 
 #### 机场最近不稳定，推荐去：[吹雪云](https://github.com/jdnei/chuixuecloud)</br>
