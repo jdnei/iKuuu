@@ -1,6 +1,6 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
 
-# آدرس رسمی iKuuu VPN (به‌روزرسانی 26 اوت 2026)
+# آدرس رسمی iKuuu VPN (به‌روزرسانی 27 اوت 2026)
 
 آدرس وب‌سایت رسمی iKuuu VPN</br>
 
