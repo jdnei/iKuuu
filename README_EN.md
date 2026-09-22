@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# iKuuu VPN Official Address (Updated September 21, 2026)
+# iKuuu VPN Official Address (Updated September 22, 2026)
 
 iKuuu VPN Official Website Address</br>
 
